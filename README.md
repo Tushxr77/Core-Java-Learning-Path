@@ -10,7 +10,7 @@ Welcome to my Java learning journey! I am currently following the **Code With Ha
 ## 📅 Progress Tracker
 | Day | Topic | Status | Links |
 | :--- | :--- | :--- | :--- |
-| 01 | Introduction & Environment Setup | ✅ Done | - |
+| 01 | Introduction & Environment Setup | ✅ Done |[View Code](./Chapter-01/)|
 | 02 | Variables & Data Types | 🏗️ Next | - |
 
 ## 🛠️ Tech Stack
