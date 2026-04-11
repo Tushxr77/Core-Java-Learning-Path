@@ -13,7 +13,8 @@ Welcome to my Java learning journey! I am currently following the **Code With Ha
 | 01 | Introduction & Environment Setup | ✅ Done |[View Code](./Chapter-01/)|
 | 02 | Variables & Data Types | ✅ Done  |[View Code](./Chapter-02/SumUser.java)  |
 | 03 | Questions Of Chapter 1 | ✅ Done | [View Folder](./Chapter-01/PracticeSet/) |
-| 04| Operators And Expressions| 🏗️ Next | - |
+| 04| Operators And Expressions|✅ Done  | - |
+| 05 | Chapter 2 Question(Operators And Expressions) | ✅ Done | :--- |
 ## 🛠️ Tech Stack
 * **Language:** Java 
 * **IDE:** VS Code / IntelliJ IDEA
