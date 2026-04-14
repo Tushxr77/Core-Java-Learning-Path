@@ -10,7 +10,7 @@ if (condition) {
 } else {
     // Executes if condition is false
 }
-### 2. The Else-If Ladder
+### 2. **The Else-If Ladder**
 When you have more than two possibilities, use the `else-if` ladder. Java will check each condition from top to bottom and execute **only the first one** that is true.
 
 **Syntax:**
@@ -28,7 +28,7 @@ else {
     // Code if NONE of the above are true
 }
 
-## 🔍 Relational Operators
+### 🔍 Relational Operators
 These are used to evaluate the conditions inside `if` and `else if`:
 * `==` : Check if equal
 * `!=` : Check if NOT equal
