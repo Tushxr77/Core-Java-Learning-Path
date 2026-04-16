@@ -17,7 +17,7 @@ Welcome to my Java learning journey! I am currently following the **Code With Ha
 | 05 | Chapter 2 Question(Operators And Expressions) | ✅ Done | [View Practice](./Chapter-02/)|
 | 06 | Chapter 3 (Strings) |✅ Done| [View Code](./Chapter-03/) |
 | 07 | Chapter 3 (Question) | ✅ Done | [View Folder](./Chapter-03/) |
-| 08| Chapter 4 (Conditionals In Java) | 🏗️ Next | -- |
+| 08| Chapter 4 (Conditionals In Java) | ✅ Done | [View Folder](./Chapter-03/) |
 ## 🛠️ Tech Stack
 * **Language:** Java 
 * **IDE:** VS Code / IntelliJ IDEA
